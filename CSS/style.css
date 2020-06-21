@@ -218,12 +218,16 @@ footer {
 
 .newsletter button {
     background: #ABC034;
+    border: 1px solid #ABC034;
+    color: #ffffff;
     border-radius: none;
     width: 100%;
 }
 
 .newsletter button:hover {
     background: #ABC034;
+    border: 1px solid #ABC034;
+    color: #ffffff;
     border-radius: none;
 }
 
